@@ -1,5 +1,5 @@
 """
-1. Create an account class with details, deposit, withdraw, details contain (name, age, sex, account_number, balance)
+Create an account class with details, deposit, withdraw, details contain (name, age, sex, account_number, balance)
 """
 class Account:
     def __init__(self):
